@@ -10,10 +10,6 @@
 
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/MDineshKarthik/Ecommerce)
 
-- 🌱 I’m currently learning **HTML,CSS,JS,EJS,MangoDB**
-
-- 💬 Ask me about **python,**
-
 - 📫 How to reach me **manikyaladineshkarthik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdineshkarthik&show_icons=true&locale=en" alt="mdineshkarthik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdineshkarthik&" alt="mdineshkarthik" /></p>
+
